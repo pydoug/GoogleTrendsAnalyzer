@@ -7,7 +7,7 @@
 
 **Google Trends Analyzer** is a powerful Python tool that automates the downloading and analysis of real-time Google Trends data. It provides insightful visualizations and metrics to help you stay updated with the latest trending topics.
 
-![Google Trends Analyzer Screenshot](https://prnt.sc/_B7d0W-_dKMw)
+![Google Trends Analyzer Screenshot](https://img001.prntscr.com/file/img001/YLiB6OeMRAKOSN9tXLqjHA.png)
 
 ## Demo
 1. **Trends Index**: Highlights the top 25 trending topics based on a custom index.
